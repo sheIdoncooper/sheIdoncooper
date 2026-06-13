@@ -15,7 +15,8 @@ $${{\color{#c30000}{\textsf{ I'll finish this later. Later, as in, when I'm not 
 
 </div>
 
-<p align="center">
+<div align="center">
 
   [Neocities](https://youungsheldon.neocities.org) [ATA](https://youngsheldon.atabook.org)
 
+</div>
