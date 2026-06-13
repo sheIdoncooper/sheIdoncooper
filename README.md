@@ -14,3 +14,6 @@ $${{\color{#c30000}{\textsf{ I'll finish this later. Later, as in, when I'm not 
 </details>
 
 </div>
+
+
+[Neocities](https://youungsheldon.neocities.org) [ATA](https://youngsheldon.atabook.org)
