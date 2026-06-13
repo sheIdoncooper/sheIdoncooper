@@ -8,7 +8,7 @@
 <br>
 
 $${{\color{#c30000}{\textsf{ I like Hetalia, Homestuck, Young Sheldon, ectetera. I like things like that. \}}}}$$
-$${{\color{#c30000}{\textsf{ At the time of writing this, I am extremely sleepy and tired. \}}}}$$
+$${{\color{#c30000}{\textsf{ At the time of writing this, I am extremely sleepy, tired, and needing to go to bed. \}}}}$$
 $${{\color{#c30000}{\textsf{ I'll finish this later. Sorry. \}}}}$$
 
 </details>
